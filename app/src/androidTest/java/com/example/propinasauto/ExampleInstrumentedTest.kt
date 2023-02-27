@@ -18,7 +18,6 @@ import com.example.propinasauto.ui.theme.PropinasautoTheme
 import org.junit.Rule
 import java.text.NumberFormat
 
-
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
     @get:Rule
